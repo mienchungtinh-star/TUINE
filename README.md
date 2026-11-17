@@ -305,7 +305,7 @@ footer {
 
     <div class="photo">
         <!-- CHANGE THE IMAGE NAME HERE -->
-        <img src="avatar.jpg" alt="Ngoc Huyen">
+        <img src="avatar.jpg" alt="Ngoc HuyenPK05064">
         <p>A little world of my own.</p>
     </div>
 
